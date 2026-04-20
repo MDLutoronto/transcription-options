@@ -47,4 +47,4 @@ The article “[Auto-Creating, Correcting and Coding Transcripts from Microsoft 
 Also, visit our Getting Started pages for more information, tutorials, and workshops for [NVivo](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-12-information-tutorials-and-workshops) or [MAXQDA](https://mdl.library.utoronto.ca/technology/tutorials/maxqda-information-resources-tutorials-and-workshops)!
 
 
-
+Technique: [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) | Tools: [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)
