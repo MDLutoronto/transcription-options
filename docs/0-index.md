@@ -1,13 +1,14 @@
 ---
-title: Transcription Options | Map and Data Library
+title: "Transcription Options | Map and Data Library"
 layout: home
 created_date: 2023-01-27
 description: "If you have an audio or video file that you need to get transcribed, this page describes some automated options to consider. But keep in mind, though, that none of these options (including NVivo transcription) provides a 100% perfectly accurate transcript. You will always have to go back in and correct your transcript. Note: If you want to pay a human to transcribe things accurately (so no or minimal correction is needed later), you could try Rev or Transcript Divas."
 maintainer:
     - name: Kelly Schultz
       link: https://library.utoronto.ca/staff/kelly-schultz
-nav_order: 0
+permalink: "/"  #! Remove this if not the homepage
 has_children: true
+nav_order: 0
 ---
 
 # Transcription Options | Map and Data Library
@@ -44,3 +45,6 @@ The article “[Auto-Creating, Correcting and Coding Transcripts from Microsoft 
 	+ [Sharing Human Participant Data](https://managing-qualitative-data.org/modules/3/b/) from the [Managing Qualitative Social Science Data online course](https://managing-qualitative-data.org/)
 
 Also, visit our Getting Started pages for more information, tutorials, and workshops for [NVivo](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-12-information-tutorials-and-workshops) or [MAXQDA](https://mdl.library.utoronto.ca/technology/tutorials/maxqda-information-resources-tutorials-and-workshops)!
+
+
+
