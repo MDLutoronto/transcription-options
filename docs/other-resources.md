@@ -18,6 +18,6 @@ nav_order: 9
 	+ [De-Identification](https://qdr.syr.edu/guidance/human-participants/deidentification) from the [Qualitative Data Repository](https://qdr.syr.edu/)
 	+ [Sharing Human Participant Data](https://managing-qualitative-data.org/modules/3/b/) from the [Managing Qualitative Social Science Data online course](https://managing-qualitative-data.org/)
 
-Also, visit our Getting Started pages for more information, tutorials, and workshops for [NVivo](https://mdl.library.utoronto.ca/technology/tutorials/nvivo-information-resources-tutorials-and-workshops) or [MAXQDA](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops/)!
+Also, visit our Getting Started pages for more information, tutorials, and workshops for [NVivo](https://mdlutoronto.github.io/nvivo-info-resources-tutorials-workshops/) or [MAXQDA](https://mdlutoronto.github.io/maxqda-info-resources-tutorials-workshops/)!
 
 **Technique:** [Qualitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis) \| **Tools:** [NVivo](https://mdlutoronto.github.io/tutorials-search/?tool=NVivo)

@@ -21,7 +21,7 @@ If you have an audio or video file that you need to get transcribed, this page d
 
 Note: If you want to pay a human to transcribe things accurately (so no or minimal correction is needed later), you could try [Rev](https://www.rev.com/) or [Transcript Divas](https://transcriptdivas.co.uk/about/).
 
-First is a comparison table of some of the automated options. Below the table are instructions for each option.
+First is a comparison table of some of the automated options. Use the side menu or click on a particular tool in the table to get more details.
 
 <table style="table-layout: fixed; width: 100%;">
   <tr>
